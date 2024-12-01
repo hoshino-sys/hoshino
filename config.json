@@ -1,8 +1,6 @@
 {
-    "title": "Hoshino",
-    "subTitle": "愿此行，终抵群星",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/180718282?v=4",
-    "GMEEK_VERSION": "last",
-    "startSite": "index",
-    "singlePage": ["sun", "moon", "sync", "search", "rss", "upload", "post"]
+    "title":"Hoshino",
+    "subTitle":"愿此行，终抵群星",
+    "avatarUrl":"https://avatars.githubusercontent.com/u/180718282?v=4",
+    "GMEEK_VERSION":"last"
 }
