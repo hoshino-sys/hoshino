@@ -4,5 +4,5 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/180718282?v=4",
     "GMEEK_VERSION": "last",
     "startSite": "index",
-    "singlePage": true
+    "singlePage": ["sun", "moon", "sync", "search", "rss", "upload", "post"]
 }
