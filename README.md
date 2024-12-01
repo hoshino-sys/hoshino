@@ -3,4 +3,4 @@
 ### 评论数量： :speech_balloon: 0 
 ### 花数量： :hibiscus: 0 
 ### 最近一次更新时间： :alarm_clock: 2024-12-01 21:06:18 
-### Powered by :heart: [Gmeek](https://github.com/Meekdai/Gmeek)
+### 由Gmeek提供支持 :heart: [Gmeek](https://github.com/Meekdai/Gmeek)
